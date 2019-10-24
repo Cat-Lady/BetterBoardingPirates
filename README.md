@@ -31,7 +31,7 @@ https://github.com/Cat-Lady/BetterBoardingPirates/releases
 **1.** Be sure that you already have ![Boarding Enhancements](https://github.com/Cat-Lady/Boarding-Enhancements) plugin installed. This variant of BetterPirates won't be working properly without Boarding Enhancements.
 
 
-**2.** If you were using original BetterVanillaPirates already, be sure to remove the standard version of the plugin (delete it's folder from your ```plugins``` directory).
+**2.** If you were using original BetterVanillaPirates already, be sure to remove the standard version of the plugin (delete its folder from your ```plugins``` directory).
 
 
 **3.** Unpack ``BetterVanillaPirates`` to your ES plugins folder. Be sure that you have single ``BetterVanillaPirates`` directory inside your plugins folder, containing ``data`` folder. Directory structure should look like:
