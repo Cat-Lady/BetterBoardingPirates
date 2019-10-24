@@ -1,6 +1,6 @@
 # Better Pirates with Boarding Enhancements
 
-This plugin integrates ![BetterVanillaPirates](https://github.com/ZBok/BetterVanillaPirates) by ![Zbok](https://github.com/ZBok) with ![Boarding Enhancements](https://github.com/Cat-Lady/Boarding-Enhancements). It fully integrates new outfits (from the latter) into fleets and ship variants added by the former.
+This plugin integrates ![BetterVanillaPirates](https://github.com/ZBok/BetterVanillaPirates) by ![Zbok](https://github.com/ZBok) with ![Boarding Enhancements](https://github.com/Cat-Lady/Boarding-Enhancements). It fully integrates new outfits (from the latter) into fleets and ship variants (added by the former).
 
 ![Better Boarding Pirates Image](/icon@2x.png?raw=true "Better Boarding Pirates Image")
 
