@@ -1,7 +1,9 @@
-### This fork integrates Boarding Enhancements plugin content in the new pirate fleets (making them even harder to board).
-# Better Vanilla Pirates for Endless Sky (requires 0.9.9 OR nightly build)
+#### This fork integrates Boarding Enhancements plugin content in the new pirate fleets (making them even more challenging, but also rewarding, to board).
 
-## Do you love vanilla ES everything but wish that the human pirates, bounty hunters and related combat missions (spaceport + job board), were a little more interesting, and stayed challenging with worthwhile mission payouts even in the late game?
+
+## Better Vanilla Pirates for Endless Sky (requires 0.9.9 OR nightly build)
+
+### Do you love vanilla ES everything but wish that the human pirates, bounty hunters and related combat missions (spaceport + job board), were a little more interesting, and stayed challenging with worthwhile mission payouts even in the late game?
 
 This plugin is designed to enhance/improve/fill gaps in many aspects of pirate combat in Human space, especially in the late-game. It does not contain any new weapons/ships/sprites, or any new or replacement storylines, nor does it make the early game any harder. It achieves all this by the adding the following (POTENTIAL SPOILERS BELOW!)
 
