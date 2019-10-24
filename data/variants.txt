@@ -8,7 +8,8 @@ ship "Vanguard" "Elite Vanguard"
 		"S-270 Regenerator"
 		"Liquid Nitrogen Cooler"
 		"Water Coolant System"
-		"Laser Rifle" 23
+		"Battle Armor & Equipment" 13
+		"Advanced Tactical Battle Suit" 10
 		"Outfits Expansion" 2
 		"A370 Atomic Thruster"
 		"A525 Atomic Steering"
@@ -24,7 +25,9 @@ ship "Vanguard" "Elite Vanguard (Alien)"
 		"Hai Diamond Regenerator"
 		"Hai Corundum Regenerator"
 		"Small Heat Shunt" 2
-		"Pulse Rifle" 23
+		"Pulse Rifle" 10
+		"Battle Armor & Equipment" 8
+		"Advanced Tactical Battle Suit" 5
 		"Security Station" 2
 		`"Bondir" Atomic Thruster`
 		`"Bondir" Atomic Steering`
@@ -46,7 +49,8 @@ ship "Bactrian" "Elite Bactrian"
 		"S-970 Regenerator"
 		"Liquid Helium Cooler"
 		"Outfits Expansion" 3
-		"Laser Rifle" 245
+		"Battle Armor & Equipment" 225
+		"Advanced Tactical Battle Suit" 20
 		"Security Station" 2
 		"Fragmentation Grenades" 245
 		"A520 Atomic Thruster"
@@ -73,7 +77,9 @@ ship "Bactrian" "Elite Bactrian (Alien)"
 		"Large Heat Shunt"
 		"Small Heat Shunt"
 		"Outfits Expansion"
-		"Pulse Rifle" 245
+		"Pulse Rifle" 25
+		"Battle Armor & Equipment" 200
+		"Advanced Tactical Battle Suit" 20
 		"Security Station" 2
 		"Fragmentation Grenades" 245
 		`"Bufaer" Atomic Thruster`
@@ -91,7 +97,7 @@ ship "Protector" "Elite Protector"
 		"Liquid Helium Cooler"
 		"Liquid Nitrogen Cooler"
 		"Outfits Expansion"
-		"Laser Rifle" 36
+		"Battle Armor & Equipment" 36
 		"Security Station" 2
 		"A370 Atomic Thruster"
 		"A375 Atomic Steering"
@@ -107,7 +113,8 @@ ship "Protector" "Elite Protector (Alien)"
 		"LP288a Battery Pack"
 		"Hai Diamond Regenerator"
 		"Large Heat Shunt"
-		"Pulse Rifle" 36
+		"Pulse Rifle" 11
+		"Battle Armor & Equipment" 25
 		"Security Station" 2
 		`"Biroo" Atomic Thruster`
 		`"Bondir" Atomic Steering`

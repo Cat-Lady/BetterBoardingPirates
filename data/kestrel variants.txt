@@ -16,7 +16,8 @@ ship "Kestrel" "KestrelEng (Particle)"
 		"LP036a Battery Pack"
 		"D94-YV Shield Generator"
 		"Liquid Helium Cooler"
-		"Laser Rifle" 128
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
 		"Outfits Expansion" 4
 		"Security Station" 2
 		"A860 Atomic Thruster"
@@ -44,7 +45,8 @@ ship "Kestrel" "KestrelEng (Laser)"
 		"D94-YV Shield Generator"
 		"Liquid Helium Cooler"
 		"Tactical Scanner" 2
-		"Laser Rifle" 128
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
 		"Outfits Expansion" 2
 		"Security Station" 2
 		"A860 Atomic Thruster"
@@ -68,7 +70,8 @@ ship "Kestrel" "KestrelEng (Electron)"
 		"Liquid Helium Cooler"
 		"Outfits Expansion" 4
 		"Tactical Scanner"
-		"Laser Rifle" 128
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
 		"Security Station"
 		"A860 Atomic Thruster"
 		"A125 Atomic Steering"
@@ -93,7 +96,8 @@ ship "Kestrel" "KestrelEng (Plasma)"
 		"Liquid Nitrogen Cooler"
 		"Outfits Expansion" 4
 		"Tactical Scanner" 2
-		"Laser Rifle" 128
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
 		"Security Station" 2
 		"A860 Atomic Thruster"
 		"A125 Atomic Steering"
@@ -123,7 +127,8 @@ ship "Kestrel" "KestrelEng (Torp)"
 		"Outfits Expansion"
 		"Tactical Scanner" 2
 		"Torpedo Storage Rack" 6
-		"Laser Rifle" 128
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
 		"Security Station" 2
 		"A860 Atomic Thruster"
 		"A865 Atomic Steering"
@@ -149,7 +154,9 @@ ship "Kestrel" "KestrelEng (Hai)"
 		"Tracker Storage Pod"
 		"Hai Tracker" 140
 		"Tactical Scanner" 2
-		"Pulse Rifle" 128
+		"Pulse Rifle" 64
+		"Battle Armor & Equipment" 54
+		"Advanced Tactical Battle Suit" 10
 		"A860 Atomic Thruster"
 		"A865 Atomic Steering"
 		`"Benga" Atomic Steering`
@@ -176,7 +183,8 @@ ship "Kestrel" "KestrelDef (Particle)"
 		"D94-YV Shield Generator"
 		"Liquid Helium Cooler"
 		"Outfits Expansion" 4
-		"Laser Rifle" 128
+		"Laser Rifle" 54
+		"Battle Armor & Equipment" 54
 		"Security Station"
 		"A520 Atomic Thruster"
 		"A250 Atomic Thruster"
@@ -202,7 +210,8 @@ ship "Kestrel" "KestrelDef (Laser)"
 		"D94-YV Shield Generator"
 		"Liquid Helium Cooler"
 		"Tactical Scanner" 2
-		"Laser Rifle" 128
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
 		"Security Station" 2
 		"A520 Atomic Thruster"
 		"A250 Atomic Thruster"
@@ -222,8 +231,9 @@ ship "Kestrel" "KestrelDef (Electron)"
 		"S-970 Regenerator"
 		"Liquid Helium Cooler"
 		"Tactical Scanner" 2
-		"Laser Rifle" 128
-		"Security Station"		
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
+		"Security Station"
 		"Outfits Expansion" 4
 		"A520 Atomic Thruster"
 		"A250 Atomic Thruster"
@@ -247,7 +257,8 @@ ship "Kestrel" "KestrelDef (Plasma)"
 		"Water Coolant System"
 		"Outfits Expansion" 4
 		"Tactical Scanner" 2
-		"Laser Rifle" 128
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
 		"Security Station" 2
 		"A520 Atomic Thruster"
 		"A250 Atomic Thruster"
@@ -275,7 +286,8 @@ ship "Kestrel" "KestrelDef (Torp)"
 		"Liquid Nitrogen Cooler"
 		"Tactical Scanner" 2
 		"Torpedo Storage Rack" 6
-		"Laser Rifle" 128
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
 		"Security Station" 2
 		"A860 Atomic Thruster"
 		"A125 Atomic Steering"
@@ -300,7 +312,9 @@ ship "Kestrel" "KestrelDef (Hai)"
 		"Liquid Helium Cooler"
 		"Outfits Expansion" 2
 		"Tactical Scanner" 2
-		"Pulse Rifle" 128
+		"Pulse Rifle" 64
+		"Battle Armor & Equipment" 64
+		"Advanced Tactical Battle Suit" 10
 		"Tracker Storage Pod"
 		`"Bufaer" Atomic Thruster`
 		"A865 Atomic Steering"
@@ -327,7 +341,8 @@ ship "Kestrel" "KestrelWep (Particle)"
 		"Liquid Helium Cooler"
 		"Outfits Expansion" 4
 		"Tactical Scanner"
-		"Laser Rifle" 128
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
 		"Security Station" 2
 		"A520 Atomic Thruster"
 		"A255 Atomic Steering"
@@ -369,7 +384,8 @@ ship "Kestrel" "KestrelWep (Laser)"
 		"Liquid Helium Cooler"
 		"Outfits Expansion" 4
 		"Tactical Scanner" 2
-		"Laser Rifle" 128
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
 		"Security Station" 2
 		"A520 Atomic Thruster"
 		"A250 Atomic Thruster"
@@ -411,7 +427,8 @@ ship "Kestrel" "KestrelWep (Electron)"
 		"Liquid Helium Cooler"
 		"Outfits Expansion" 4
 		"Tactical Scanner" 2
-		"Laser Rifle" 128
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
 		"A520 Atomic Thruster"
 		"A250 Atomic Thruster"
 		"A865 Atomic Steering"
@@ -454,7 +471,8 @@ ship "Kestrel" "KestrelWep (Plasma)"
 		"Liquid Nitrogen Cooler"
 		"Water Coolant System"
 		"Tactical Scanner" 2
-		"Laser Rifle" 128
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
 		"Security Station" 2
 		"Outfits Expansion" 4
 		"A520 Atomic Thruster"
@@ -497,7 +515,8 @@ ship "Kestrel" "KestrelWep (Torp)"
 		"Outfits Expansion" 3
 		"Torpedo Storage Rack"
 		"Security Station" 2
-		"Laser Rifle" 128
+		"Laser Rifle" 64
+		"Battle Armor & Equipment" 64
 		"A120 Atomic Thruster"
 		"A860 Atomic Thruster"
 		"A525 Atomic Steering"
@@ -539,7 +558,9 @@ ship "Kestrel" "KestrelWep (Hai)"
 		"Hai Diamond Regenerator"
 		"Liquid Helium Cooler"
 		"Outfits Expansion" 4
-		"Pulse Rifle" 128
+		"Pulse Rifle" 64
+		"Battle Armor & Equipment" 54
+		"Advanced Tactical Battle Suit" 10
 		"Tactical Scanner"
 		`"Bufaer" Atomic Thruster`
 		`"Basrem" Atomic Steering`

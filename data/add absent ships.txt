@@ -5,9 +5,9 @@ mission "Add Absent Pirate Ships"
 	invisible
 	on offer
 		event "Add Absent Pirate Ships"
-		
+
 event "Add Absent Pirate Ships"
-	
+
 	fleet "Large Southern Pirates"
 		add variant 1
 			"Osprey"
@@ -25,8 +25,25 @@ event "Add Absent Pirate Ships"
 		add variant 2
 			"Mule (Heavy)"
 			"Dagger"
-	
-	
+
+		add variant 1
+			"Osprey-armed3"
+			"Fury-sidearm"
+		add variant 1
+			"Osprey-armed3"
+			"Sparrow-sidearm"
+		add variant 1
+			"Osprey (Missile)-armed3"
+		add variant 1
+			"Osprey (Laser)-armed3"
+		add variant 2
+			"Mule-armed1"
+			"Dagger"
+		add variant 2
+			"Mule (Heavy)-armed2"
+			"Dagger"
+
+
 	fleet "Large Core Pirates"
 		add variant 1
 			"Vanguard (Particle)"
@@ -44,9 +61,67 @@ event "Add Absent Pirate Ships"
 			"Mule"
 			"Dagger"
 		add variant 2
+			"Mule (Heavy)-armed2"
+			"Dagger"
+
+		add variant 1
+			"Vanguard (Particle)-armed6"
+		add variant 1
+			"Vanguard (Missile)-armed2"
+		add variant 1
+			"Vanguard-armed4"
+		add variant 1
+			"Protector (Laser)-armed8"
+		add variant 1
+			"Protector (Proton)-armed2"
+		add variant 1
+			"Protector-armed3"
+		add variant 2
+			"Mule-armed1"
+			"Dagger"
+		add variant 2
+			"Mule (Heavy)-armed2"
+			"Dagger"
+
+		add variant 1
+			"Vanguard (Particle)-armed3"
+		add variant 1
+			"Vanguard (Missile)"
+		add variant 1
+			"Vanguard-armed2"
+		add variant 1
+			"Protector (Laser)-armed4"
+		add variant 1
+			"Protector (Proton)-armed2"
+		add variant 1
+			"Protector-armed1"
+		add variant 2
+			"Mule-armed1"
+			"Dagger"
+		add variant 2
+			"Mule (Heavy)-armed2"
+			"Dagger"
+
+		add variant 1
+			"Vanguard (Particle)-armed1"
+		add variant 1
+			"Vanguard (Missile)"
+		add variant 1
+			"Vanguard"
+		add variant 1
+			"Protector (Laser)-armed2"
+		add variant 1
+			"Protector (Proton)"
+		add variant 1
+			"Protector"
+		add variant 2
+			"Mule"
+			"Dagger"
+		add variant 2
 			"Mule (Heavy)"
 			"Dagger"
-		
+
+
 	fleet "Small Northern Pirates"
 		add variant 1
 			"Aerie"
@@ -54,7 +129,15 @@ event "Add Absent Pirate Ships"
 		add variant 1
 			"Aerie"
 			"Dagger" 2
-	
+
+		add variant 1
+			"Aerie-armed3"
+			"Lance-sidearm" 2
+		add variant 1
+			"Aerie-armed3"
+			"Dagger" 2
+
+
 	fleet "Large Northern Pirates"
 		add variant 2
 			"Aerie"
@@ -76,9 +159,61 @@ event "Add Absent Pirate Ships"
 			"Dagger" 4
 			"Firebird"
 		add variant 2
-			"Mule"
+			"Mule-armed1"
 			"Lance"
 		add variant 2
-			"Mule (Heavy)"
+			"Mule (Heavy)-armed2"
 			"Dagger"
-	
+
+		add variant 2
+			"Aerie-armed3"
+			"Dagger" 2
+			"Corvette-armed3"
+		add variant 2
+			"Aerie-armed3"
+			"Dagger" 2
+			"Raven-armed1"
+		add variant 3
+			"Aerie-armed3" 2
+			"Dagger" 4
+		add variant 2
+			"Aerie-armed3"
+			"Dagger" 2
+			"Corvette (Missile)-armed4"
+		add variant 1
+			"Aerie-armed3" 2
+			"Dagger" 4
+			"Firebird-armed3"
+		add variant 2
+			"Mule-armed1"
+			"Lance-sidearm"
+		add variant 2
+			"Mule (Heavy)-armed2"
+			"Dagger"
+
+		add variant 2
+			"Aerie"
+			"Dagger" 2
+			"Corvette-armed1"
+		add variant 2
+			"Aerie"
+			"Dagger" 2
+			"Raven"
+		add variant 3
+			"Aerie" 2
+			"Dagger" 4
+		add variant 2
+			"Aerie"
+			"Dagger" 2
+			"Corvette (Missile)-armed2"
+		add variant 1
+			"Aerie" 2
+			"Dagger" 4
+			"Firebird"
+		add variant 2
+			"Mule-armed1"
+			"Lance"
+		add variant 2
+			"Mule (Heavy)-armed2"
+			"Dagger"
+

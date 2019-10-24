@@ -145,7 +145,24 @@ event "Add Reg AlienTech"
 		add variant 10
 			"Freighter (Hai)"
 			"Sparrow"
-	
+
+		add variant 1
+			"Mule (Hai Weapons)-armed2"
+			"Dagger"
+		add variant 1
+			"Mule (Hai Engines)-armed1"
+			"Dagger"
+		add variant 3
+			"Hauler (Hai)-armed1"
+		add variant 2
+			"Hauler II (Hai)-armed1"
+		add variant 2
+			"Hauler III (Hai)-armed1"
+		add variant 10
+			"Freighter (Hai)-armed1"
+			"Sparrow-sidearm"
+
+
 	fleet "Large Southern Merchants"
 		add variant 10
 			"Freighter (Hai)" 2
@@ -164,7 +181,62 @@ event "Add Reg AlienTech"
 			"Hauler III (Hai)"
 		add variant 2
 			"Hauler III (Hai)" 2
-			
+
+		add variant 10
+			"Freighter (Hai)-armed1" 2
+			"Sparrow-sidearm" 2
+		add variant 1
+			"Bactrian (Hai Weapons)-armed16"
+			"Dagger" 3
+		add variant 1	
+			"Bactrian (Hai Engines)-armed12"
+			"Dagger" 3
+		add variant 3
+			"Hauler (Hai)-armed1" 2
+			"Hauler II (Hai)-armed1"
+		add variant 2
+			"Hauler II (Hai)-armed1" 2
+			"Hauler III (Hai)-armed1"
+		add variant 2
+			"Hauler III (Hai)-armed1" 2
+
+		add variant 10
+			"Freighter (Hai)-armed1" 2
+			"Sparrow-sidearm" 2
+		add variant 1
+			"Bactrian (Hai Weapons)-armed8"
+			"Dagger" 3
+		add variant 1	
+			"Bactrian (Hai Engines)-armed6"
+			"Dagger" 3
+		add variant 3
+			"Hauler (Hai)-armed1" 2
+			"Hauler II (Hai)-armed1"
+		add variant 2
+			"Hauler II (Hai)-armed1" 2
+			"Hauler III (Hai)-armed1"
+		add variant 2
+			"Hauler III (Hai)-armed1" 2
+
+		add variant 10
+			"Freighter (Hai)" 2
+			"Sparrow" 2
+		add variant 1
+			"Bactrian (Hai Weapons)-armed4"
+			"Dagger" 3
+		add variant 1	
+			"Bactrian (Hai Engines)-armed3"
+			"Dagger" 3
+		add variant 3
+			"Hauler (Hai)" 2
+			"Hauler II (Hai)"
+		add variant 2
+			"Hauler II (Hai)" 2
+			"Hauler III (Hai)"
+		add variant 2
+			"Hauler III (Hai)" 2
+
+
 	fleet "Small Core Merchants"
 		add variant 10
 			"Freighter (Hai)"
@@ -173,7 +245,16 @@ event "Add Reg AlienTech"
 			"Bounder (Hai)"
 		add variant 1
 			"Flivver (Hai)"
-	
+
+		add variant 10
+			"Freighter (Hai)-armed1"
+			"Sparrow-sidearm"
+		add variant 20
+			"Bounder (Hai)-armed1"
+		add variant 1
+			"Flivver (Hai)-sidearm"
+
+
 	fleet "Large Core Merchants"
 		add variant 10
 			"Bulk Freighter (Hai)" 2
@@ -189,7 +270,52 @@ event "Add Reg AlienTech"
 			"Wasp" 2
 		add variant 1
 			"Arrow (Hai)"
-			
+
+		add variant 10
+			"Bulk Freighter (Hai)-armed2" 2
+			"Wasp-blaster" 2
+		add variant 1
+			"Bactrian (Hai Weapons)-armed16"
+			"Dagger" 3
+		add variant 1
+			"Bactrian (Hai Engines)-armed12"
+			"Dagger" 3
+		add variant 3
+			"Freighter (Hai)-armed1" 2
+			"Wasp-blaster" 2
+		add variant 1
+			"Arrow (Hai)-armed1"
+
+		add variant 10
+			"Bulk Freighter (Hai)-armed2" 2
+			"Wasp-blaster" 2
+		add variant 1
+			"Bactrian (Hai Weapons)-armed8"
+			"Dagger" 3
+		add variant 1	
+			"Bactrian (Hai Engines)-armed6"
+			"Dagger" 3
+		add variant 3
+			"Freighter (Hai)" 2
+			"Wasp-blaster" 2
+		add variant 1
+			"Arrow (Hai)"
+
+		add variant 10
+			"Bulk Freighter (Hai)" 2
+			"Wasp" 2
+		add variant 1
+			"Bactrian (Hai Weapons)-armed4"
+			"Dagger" 3
+		add variant 1	
+			"Bactrian (Hai Engines)-armed3"
+			"Dagger" 3
+		add variant 3
+			"Freighter (Hai)" 2
+			"Wasp" 2
+		add variant 1
+			"Arrow (Hai)"
+
 
 	fleet "Paradise Merchants"
 		add variant 10
@@ -204,7 +330,21 @@ event "Add Reg AlienTech"
 			"Arrow (Hai)"
 		add variant 5
 			"Flivver (Hai)"
-			
+
+		add variant 10
+			"Star Queen (Hai)-armed3"
+		add variant 5
+			"Star Queen (Hai)-armed3"
+			"Wasp-blaster" 2
+		add variant 5
+			"Arrow (Hai)-armed1"
+		add variant 5
+			"Flivver (Hai)"
+			"Arrow (Hai)-armed1"
+		add variant 5
+			"Flivver (Hai)-sidearm"
+
+
 	fleet "Small Northern Merchants"
 		add variant 10
 			"Freighter (Hai)"
@@ -222,7 +362,25 @@ event "Add Reg AlienTech"
 			"Hauler III (Hai)"
 		add variant 2
 			"Hauler III (Hai)" 2
-			
+
+		add variant 10
+			"Freighter (Hai)-armed1"
+		add variant 1
+			"Mule (Hai Engines)-armed1"
+			"Dagger"
+		add variant 1
+			"Mule (Hai Weapons)-armed2"
+			"Dagger"
+		add variant 3
+			"Hauler (Hai)-armed1" 2
+			"Hauler II (Hai)-armed1"
+		add variant 2
+			"Hauler II (Hai)-armed1" 2
+			"Hauler III (Hai)-armed1"
+		add variant 2
+			"Hauler III (Hai)-armed1" 2
+
+
 	fleet "Large Northern Merchants"
 		add variant 10
 			"Freighter (Hai)" 2
@@ -268,7 +426,143 @@ event "Add Reg AlienTech"
 		add variant 1
 			"Mule (Hai Weapons)" 2
 			"Dagger" 2
-			
+
+		add variant 10
+			"Freighter (Hai)-armed1" 2
+			"Firebird (Hai Weapons)-armed3"
+		add variant 10
+			"Freighter (Hai)-armed1" 2
+			"Firebird (Hai Shields)-armed2"
+		add variant 10
+			"Freighter (Hai)-armed1" 2
+			"Corvette (Hai)-armed3"
+		add variant 5
+			"Freighter (Hai)-armed1" 4
+			"Leviathan (Hai Weapons)-armed20"
+		add variant 5
+			"Freighter (Hai)-armed1" 4
+			"Leviathan (Hai Engines)-armed13"
+		add variant 5
+			"Bulk Freighter (Hai)-armed2"
+			"Headhunter (Hai)-armed1" 2
+		add variant 1
+			"Star Queen (Hai)-armed3"
+			"Leviathan (Hai Weapons)-armed20"
+		add variant 1
+			"Star Queen (Hai)-armed3"
+			"Firebird (Hai Weapons)-armed3"
+		add variant 1
+			"Star Queen (Hai)-armed3"
+			"Leviathan (Hai Engines)-armed13"
+		add variant 1
+			"Star Queen (Hai)-armed3"
+			"Firebird (Hai Shields)-armed2"
+		add variant 3
+			"Hauler (Hai)-armed1" 2
+			"Hauler II (Hai)-armed1"
+		add variant 2
+			"Hauler II (Hai)-armed1" 2
+			"Hauler III (Hai)-armed1"
+		add variant 2
+			"Hauler III (Hai)-armed1" 2
+		add variant 1
+			"Mule (Hai Engines)-armed1" 2
+			"Dagger" 2
+		add variant 1
+			"Mule (Hai Weapons)-armed2" 2
+			"Dagger" 2
+
+		add variant 10
+			"Freighter (Hai)" 2
+			"Firebird (Hai Weapons)"
+		add variant 10
+			"Freighter (Hai)" 2
+			"Firebird (Hai Shields)"
+		add variant 10
+			"Freighter (Hai)" 2
+			"Corvette (Hai)-armed1"
+		add variant 5
+			"Freighter (Hai)" 4
+			"Leviathan (Hai Weapons)-armed10"
+		add variant 5
+			"Freighter (Hai)" 4
+			"Leviathan (Hai Engines)-armed6"
+		add variant 5
+			"Bulk Freighter (Hai)"
+			"Headhunter (Hai)" 2
+		add variant 1
+			"Star Queen (Hai)"
+			"Leviathan (Hai Weapons)-armed10"
+		add variant 1
+			"Star Queen (Hai)"
+			"Firebird (Hai Weapons)"
+		add variant 1
+			"Star Queen (Hai)"
+			"Leviathan (Hai Engines)-armed6"
+		add variant 1
+			"Star Queen (Hai)"
+			"Firebird (Hai Shields)"
+		add variant 3
+			"Hauler (Hai)" 2
+			"Hauler II (Hai)"
+		add variant 2
+			"Hauler II (Hai)" 2
+			"Hauler III (Hai)"
+		add variant 2
+			"Hauler III (Hai)" 2
+		add variant 1
+			"Mule (Hai Engines)" 2
+			"Dagger" 2
+		add variant 1
+			"Mule (Hai Weapons)" 2
+			"Dagger" 2
+
+		add variant 10
+			"Freighter (Hai)" 2
+			"Firebird (Hai Weapons)"
+		add variant 10
+			"Freighter (Hai)" 2
+			"Firebird (Hai Shields)"
+		add variant 10
+			"Freighter (Hai)" 2
+			"Corvette (Hai)"
+		add variant 5
+			"Freighter (Hai)" 4
+			"Leviathan (Hai Weapons)-armed5"
+		add variant 5
+			"Freighter (Hai)" 4
+			"Leviathan (Hai Engines)-armed2"
+		add variant 5
+			"Bulk Freighter (Hai)"
+			"Headhunter (Hai)" 2
+		add variant 1
+			"Star Queen (Hai)"
+			"Leviathan (Hai Weapons)-armed5"
+		add variant 1
+			"Star Queen (Hai)"
+			"Firebird (Hai Weapons)"
+		add variant 1
+			"Star Queen (Hai)"
+			"Leviathan (Hai Engines)-armed2"
+		add variant 1
+			"Star Queen (Hai)"
+			"Firebird (Hai Shields)"
+		add variant 3
+			"Hauler (Hai)" 2
+			"Hauler II (Hai)"
+		add variant 2
+			"Hauler II (Hai)" 2
+			"Hauler III (Hai)"
+		add variant 2
+			"Hauler III (Hai)" 2
+		add variant 1
+			"Mule (Hai Engines)" 2
+			"Dagger" 2
+		add variant 1
+			"Mule (Hai Weapons)" 2
+			"Dagger" 2
+
+
 	fleet "Small Deep Merchants"
 		add variant 1
 			"Mule (Hai Engines)"
@@ -284,7 +578,23 @@ event "Add Reg AlienTech"
 			"Flivver (Hai)"
 		add variant 1
 			"Headhunter (Hai)"
-			
+
+		add variant 1
+			"Mule (Hai Engines)-armed1"
+			"Dagger"
+		add variant 1
+			"Mule (Hai Weapons)-armed2"
+			"Dagger"
+		add variant 1
+			"Mule (Hai Weapons)-armed2"
+			"Dagger"
+			"Headhunter (Hai)-armed1"
+		add variant 1
+			"Flivver (Hai)-sidearm"
+		add variant 1
+			"Headhunter (Hai)-armed1"
+
+
 	fleet "Large Deep Merchants"
 		add variant 1
 			"Bactrian (Hai Weapons)"
@@ -303,18 +613,84 @@ event "Add Reg AlienTech"
 			"Star Queen (Hai)"
 			"Aerie" 2
 			"Dagger" 4
-			
+
+		add variant 1
+			"Bactrian (Hai Weapons)-armed16"
+			"Dagger" 3
+			"Mule (Hai Weapons)-armed2" 2
+			"Dagger" 2
+		add variant 1
+			"Bactrian (Hai Engines)-armed12"
+			"Dagger" 3
+			"Mule (Hai Engines)-armed1" 2
+			"Dagger" 2
+		add variant 2
+			"Star Queen (Hai)-armed3"
+			"Headhunter (Hai)-armed1" 2
+		add variant 2
+			"Star Queen (Hai)-armed3"
+			"Aerie-armed3" 2
+			"Dagger" 4
+
+		add variant 1
+			"Bactrian (Hai Weapons)-armed8"
+			"Dagger" 3
+			"Mule (Hai Weapons)" 2
+			"Dagger" 2
+		add variant 1
+			"Bactrian (Hai Engines)-armed6"
+			"Dagger" 3
+			"Mule (Hai Engines)" 2
+			"Dagger" 2
+		add variant 2
+			"Star Queen (Hai)"
+			"Headhunter (Hai)" 2
+		add variant 2
+			"Star Queen (Hai)"
+			"Aerie" 2
+			"Dagger" 4
+
+		add variant 1
+			"Bactrian (Hai Weapons)-armed4"
+			"Dagger" 3
+			"Mule (Hai Weapons)" 2
+			"Dagger" 2
+		add variant 1
+			"Bactrian (Hai Engines)-armed3"
+			"Dagger" 3
+			"Mule (Hai Engines)" 2
+			"Dagger" 2
+		add variant 2
+			"Star Queen (Hai)"
+			"Headhunter (Hai)" 2
+		add variant 2
+			"Star Queen (Hai)"
+			"Aerie" 2
+			"Dagger" 4
+
+
 	fleet "Small Core Pirates"
 		add variant 1
 			"Headhunter (Hai)"
-	
+
+		add variant 1
+			"Headhunter (Hai)-armed1"
+
+
 	fleet "Large Core Pirates"
 		add variant 1
 			"Headhunter (Hai)"
 			"Firebird (Hai Weapons)" 2
 		add variant 1
 			"Firebird (Hai Shields)" 2
-			
+
+		add variant 1
+			"Headhunter (Hai)-armed1"
+			"Firebird (Hai Weapons)-armed3" 2
+		add variant 1
+			"Firebird (Hai Shields)-armed2" 2
+
+
 	fleet "Large Northern Pirates"
 		add variant 1
 			"Firebird (Hai Shields)"
@@ -332,7 +708,59 @@ event "Add Reg AlienTech"
 			"Firebird (Hai Weapons)"
 		add variant 1
 			"Leviathan (Hai Weapons)"
-			
+
+		add variant 1
+			"Firebird (Hai Shields)-armed2"
+			"Corvette (Hai)-armed3"
+		add variant 1
+			"Firebird (Hai Weapons)-armed3" 
+			"Corvette (Hai)-armed3"
+		add variant 1
+			"Headhunter (Hai)-armed1"
+		add variant 1
+			"Leviathan (Hai Weapons)-armed20"
+			"Firebird (Hai Shields)-armed2"
+		add variant 1
+			"Leviathan (Hai Shields)"
+			"Firebird (Hai Weapons)-armed3"
+		add variant 1
+			"Leviathan (Hai Weapons)-armed20"
+
+		add variant 1
+			"Firebird (Hai Shields)"
+			"Corvette (Hai)-armed1"
+		add variant 1
+			"Firebird (Hai Weapons)" 
+			"Corvette (Hai)-armed1"
+		add variant 1
+			"Headhunter (Hai)"
+		add variant 1
+			"Leviathan (Hai Weapons)-armed10"
+			"Firebird (Hai Shields)"
+		add variant 1
+			"Leviathan (Hai Shields)"
+			"Firebird (Hai Weapons)"
+		add variant 1
+			"Leviathan (Hai Weapons)-armed10"
+
+		add variant 1
+			"Firebird (Hai Shields)"
+			"Corvette (Hai)"
+		add variant 1
+			"Firebird (Hai Weapons)" 
+			"Corvette (Hai)"
+		add variant 1
+			"Headhunter (Hai)"
+		add variant 1
+			"Leviathan (Hai Weapons)-armed5"
+			"Firebird (Hai Shields)"
+		add variant 1
+			"Leviathan (Hai Shields)"
+			"Firebird (Hai Weapons)"
+		add variant 1
+			"Leviathan (Hai Weapons)-armed5"
+
+
 	fleet "Large Southern Pirates"
 		add variant 1
 			"Mule (Hai Engines)"
@@ -340,7 +768,15 @@ event "Add Reg AlienTech"
 		add variant 1
 			"Mule (Hai Weapons)"
 			"Dagger"
-			
+
+		add variant 1
+			"Mule (Hai Engines)-armed1"
+			"Dagger"
+		add variant 1
+			"Mule (Hai Weapons)-armed2"
+			"Dagger"
+
+
 event "add military pirates"
 
 	fleet "Large Southern Pirates"
@@ -353,8 +789,38 @@ event "add military pirates"
 			"Gunboat (Mark II)"
 		add variant 1	
 			"Frigate (Mark II)"
-			
-			
+
+		add variant 1
+			"Dreadnought-armed25"
+		add variant 1
+			"Skein-armed4"
+			"Finch" 6
+		add variant 2
+			"Gunboat (Mark II)-armed4"
+		add variant 1	
+			"Frigate (Mark II)-armed8"
+
+		add variant 1
+			"Dreadnought-armed10"
+		add variant 1
+			"Skein-armed2"
+			"Finch" 6
+		add variant 2
+			"Gunboat (Mark II)-armed2"
+		add variant 1	
+			"Frigate (Mark II)-armed4"
+
+		add variant 1
+			"Dreadnought-armed5"
+		add variant 1
+			"Skein"
+			"Finch" 6
+		add variant 2
+			"Gunboat (Mark II)"
+		add variant 1	
+			"Frigate (Mark II)-armed2"
+
+
 	fleet "Large Northern Pirates"
 		add variant 1
 			"Frigate"
@@ -373,7 +839,62 @@ event "add military pirates"
 			"Carrier"
 			"Lance" 4
 			"Combat Drone" 6
-			
+
+		add variant 1
+			"Frigate-armed5"
+		add variant 2
+			"Rainmaker (Mark II)-blaster"
+		add variant 2
+			"Gunboat (Mark II)-armed4"
+		add variant 2
+			"Rainmaker-blaster"
+		add variant 2
+			"Gunboat-armed4"
+		add variant 1
+			"Cruiser-tacarmed10"
+			"Combat Drone" 4
+		add variant 1
+			"Carrier-tacarmed20"
+			"Lance-sidearm" 4
+			"Combat Drone" 6
+
+		add variant 1
+			"Frigate-armed2"
+		add variant 2
+			"Rainmaker (Mark II)"
+		add variant 2
+			"Gunboat (Mark II)-armed2"
+		add variant 2
+			"Rainmaker"
+		add variant 2
+			"Gunboat-armed2"
+		add variant 1
+			"Cruiser-tacarmed5"
+			"Combat Drone" 4
+		add variant 1
+			"Carrier-tacarmed10"
+			"Lance" 4
+			"Combat Drone" 6
+
+		add variant 1
+			"Frigate-armed1"
+		add variant 2
+			"Rainmaker (Mark II)"
+		add variant 2
+			"Gunboat (Mark II)"
+		add variant 2
+			"Rainmaker"
+		add variant 2
+			"Gunboat"
+		add variant 1
+			"Cruiser-armed20"
+			"Combat Drone" 4
+		add variant 1
+			"Carrier-armed40"
+			"Lance" 4
+			"Combat Drone" 6
+
+
 	fleet "Large Core Pirates"
 		add variant 1
 			"Dreadnought"
@@ -384,3 +905,33 @@ event "add military pirates"
 			"Rainmaker"
 		add variant 1
 			"Frigate"
+
+		add variant 1
+			"Dreadnought-armed25"
+		add variant 1
+			"Cruiser-tacarmed10"
+			"Combat Drone" 4
+		add variant 2
+			"Rainmaker-blaster"
+		add variant 1
+			"Frigate-armed5"
+
+		add variant 1
+			"Dreadnought-armed10"
+		add variant 1
+			"Cruiser-tacarmed5"
+			"Combat Drone" 4
+		add variant 2
+			"Rainmaker"
+		add variant 1
+			"Frigate-armed2"
+
+		add variant 1
+			"Dreadnought-armed5"
+		add variant 1
+			"Cruiser-armed20"
+			"Combat Drone" 4
+		add variant 2
+			"Rainmaker"
+		add variant 1
+			"Frigate-armed1"

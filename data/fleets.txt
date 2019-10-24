@@ -9,8 +9,8 @@ fleet "Marauder fleet XX"
 	personality
 		plunders
 	variant 3
-		"Marauder Falcon"
-		"Marauder Leviathan"
+		"Marauder Falcon-tacarmor10"
+		"Marauder Leviathan-tacarmed10"
 		"Marauder Splinter"
 		"Marauder Manta"
 		"Marauder Firebird"
@@ -19,8 +19,8 @@ fleet "Marauder fleet XX"
 		"Marauder Arrow (Weapons)"
 		"Marauder Bounder (Engines)"
 	variant 3
-		"Marauder Falcon"
-		"Marauder Leviathan"
+		"Marauder Falcon-tacarmor10"
+		"Marauder Leviathan-tacarmed10"
 		"Marauder Splinter"
 		"Marauder Manta"
 		"Marauder Firebird"
@@ -136,7 +136,19 @@ fleet "Elite Bactrian Merchants"
 	variant 1
 		"Bactrian (Hai Weapons)" 1
 		"Dagger" 3
-		
+
+	variant 1
+		"Bactrian (Hai Weapons)-armed16" 1
+		"Dagger" 3
+
+	variant 1
+		"Bactrian (Hai Weapons)-armed8" 1
+		"Dagger" 3
+
+	variant 1
+		"Bactrian (Hai Weapons)-armed4" 1
+		"Dagger" 3
+
 fleet "Elite Gunboats"
 	government "Republic"
 	names "republic small"
@@ -145,7 +157,14 @@ fleet "Elite Gunboats"
 		heroic opportunistic
 	variant 1
 		"Gunboat"
-		
+
+	variant 1
+		"Gunboat-armed4"
+
+	variant 1
+		"Gunboat-armed2"
+
+
 fleet "Elite Leviathans"
 	government "Merchant"
 	names "civilian"
@@ -155,7 +174,17 @@ fleet "Elite Leviathans"
 		confusion 20
 	variant 1
 		"Leviathan (Hai Weapons)"
-		
+
+	variant 1
+		"Leviathan (Hai Weapons)-armed20"
+
+	variant 1
+		"Leviathan (Hai Weapons)-armed10"
+
+	variant 1
+		"Leviathan (Hai Weapons)-armed5"
+
+
 fleet "Elite Vanguards"
 	government "Syndicate"
 	names "syndicate capital"
@@ -167,6 +196,22 @@ fleet "Elite Vanguards"
 		"Vanguard"
 	variant 1
 		"Vanguard (Particle)"
+
+	variant 1
+		"Vanguard-armed4"
+	variant 1
+		"Vanguard (Particle)-armed6"
+
+	variant 1
+		"Vanguard-armed2"
+	variant 1
+		"Vanguard (Particle)-armed3"
+
+	variant 1
+		"Vanguard"
+	variant 1
+		"Vanguard (Particle)-armed1"
+
 
 fleet "Elite Bounty Hunters"
 	government "Pirate"

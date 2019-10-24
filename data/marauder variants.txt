@@ -14,7 +14,8 @@ ship "Marauder Falcon" "Marauder Falcon (Engines - AlienTech)"
 		"Hai Corundum Regenerator" 2
 		"Small Heat Shunt"
 		"Tracker Storage Pod"
-		"Pulse Rifle" 80
+		"Pulse Rifle" 40
+		"Battle Armor & Equipment" 40
 		"Security Station"
 		"Outfits Expansion" 2
 		"A860 Atomic Thruster"
@@ -48,7 +49,9 @@ ship "Marauder Falcon" "Marauder Falcon (Weapons - AlienTech)"
 		"Hai Diamond Regenerator"
 		"Small Heat Shunt" 2
 		"Outfits Expansion" 3
-		"Pulse Rifle" 80
+		"Pulse Rifle" 40
+		"Battle Armor & Equipment" 30
+		"Advanced Tactical Battle Suit" 10
 		"Security Station"
 		"A520 Atomic Thruster"
 		`"Bufaer" Atomic Steering`
@@ -82,7 +85,8 @@ ship "Marauder Leviathan" "Marauder Leviathan (Engines - AlienTech)"
 		"Hai Diamond Regenerator"
 		"Large Heat Shunt"
 		"Outfits Expansion" 2
-		"Pulse Rifle" 69
+		"Pulse Rifle" 34
+		"Battle Armor & Equipment" 35
 		"Security Station"
 		"A860 Atomic Thruster"
 		"A865 Atomic Steering"
@@ -114,7 +118,9 @@ ship "Marauder Leviathan" "Marauder Leviathan (Weapons - AlienTech)"
 		"Hai Diamond Regenerator"
 		"Large Heat Shunt"
 		"Outfits Expansion" 2
-		"Pulse Rifle" 69
+		"Pulse Rifle" 34
+		"Battle Armor & Equipment" 25
+		"Advanced Tactical Battle Suit" 10
 		"Security Station"
 		"Catalytic Ramscoop"
 		"Ionic Afterburner"
@@ -147,7 +153,8 @@ ship "Marauder Firebird" "Marauder Firebird (Engines - AlienTech)"
 		"Hai Diamond Regenerator"
 		"Large Heat Shunt"
 		"Outfits Expansion"
-		"Pulse Rifle" 25
+		"Pulse Rifle" 5
+		"Battle Armor & Equipment" 20
 		"Security Station"
 		"A370 Atomic Thruster"
 		`"Bufaer" Atomic Steering`
@@ -175,7 +182,8 @@ ship "Marauder Firebird" "Marauder Firebird (Weapons - AlienTech)"
 		"LP036a Battery Pack"
 		"Hai Corundum Regenerator" 2
 		"Small Heat Shunt" 2
-		"Pulse Rifle" 25
+		"Pulse Rifle" 5
+		"Battle Armor & Equipment" 20
 		"Outfits Expansion"
 		"Security Station"
 		`"Biroo" Atomic Thruster`
@@ -205,7 +213,8 @@ ship "Marauder Splinter" "Marauder Splinter (Engines - AlienTech)"
 		"Small Heat Shunt" 2
 		"Outfits Expansion"
 		"Tracker Storage Pod" 2
-		"Pulse Rifle" 22
+		"Pulse Rifle" 12
+		"Battle Armor & Equipment" 10
 		"Security Station"
 		"A370 Atomic Thruster"
 		"A525 Atomic Steering"
@@ -235,7 +244,8 @@ ship "Marauder Splinter" "Marauder Splinter (Weapons - AlienTech)"
 		"Small Heat Shunt" 2
 		"Outfits Expansion"
 		"Tracker Storage Pod" 2
-		"Pulse Rifle" 22
+		"Pulse Rifle" 10
+		"Battle Armor & Equipment" 12
 		"Security Station" 2
 		"A250 Atomic Thruster"
 		"A525 Atomic Steering"
@@ -264,7 +274,8 @@ ship "Marauder Manta" "Marauder Manta (Engines - AlienTech)"
 		"LP072a Battery Pack"
 		"Hai Corundum Regenerator"
 		"Small Heat Shunt" 2
-		"Pulse Rifle" 11
+		"Pulse Rifle" 6
+		"Battle Armor & Equipment" 5
 		"Security Station"
 		`"Bondir" Atomic Thruster`
 		"A525 Atomic Steering"
@@ -292,7 +303,8 @@ ship "Marauder Manta" "Marauder Manta (Weapons - AlienTech)"
 		Supercapacitor
 		"S-270 Regenerator"
 		"Small Heat Shunt" 2
-		"Pulse Rifle" 11
+		"Pulse Rifle" 5
+		"Battle Armor & Equipment" 6
 		"Security Station"
 		`"Bondir" Atomic Thruster`
 		"A375 Atomic Steering"
