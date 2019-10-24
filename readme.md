@@ -17,7 +17,7 @@ This plugin integrates ![BetterVanillaPirates](https://github.com/ZBok/BetterVan
 
 - As indirect effect, boarding military/marauder targets or well-defended merchant fleets is now much more challenging... But also, much more rewarding, if you are prepared and act wisely.
 
-![Sidearm Image](/../images/outfit/sidearm.png?raw=true "Sidearm Image")
+![Sidearm Image](/../images//images/outfit/sidearm.png?raw=true "Sidearm Image")
 
 
 ## Installing
@@ -43,7 +43,7 @@ It **won't** work if the directory structure will be anything like:
 
 ```(...)/plugins/BetterBoardingPirates/BetterVanillaPirates/(...)```
 
-![Stun Grenades Image](/../images/outfit/stun%20grenades.png?raw=true "Stun Grenades Image")
+![Stun Grenades Image](/../images/images/outfit/stun%20grenades.png?raw=true "Stun Grenades Image")
 
 
 ## Author
@@ -64,4 +64,4 @@ This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.m
 
 ZBok - for the absolutely awesome and essential BetterVanillaPirates plugin.
 
-![Battle Armor Image](/../images/outfit/flack%20vest.png?raw=true "Battle Armor Image")
+![Battle Armor Image](/../images/images/outfit/flack%20vest.png?raw=true "Battle Armor Image")
