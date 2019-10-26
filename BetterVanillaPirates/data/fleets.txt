@@ -9,7 +9,7 @@ fleet "Marauder fleet XX"
 	personality
 		plunders
 	variant 3
-		"Marauder Falcon-tacarmor10"
+		"Marauder Falcon-tacarmed10"
 		"Marauder Leviathan-tacarmed10"
 		"Marauder Splinter"
 		"Marauder Manta"
@@ -19,7 +19,7 @@ fleet "Marauder fleet XX"
 		"Marauder Arrow (Weapons)"
 		"Marauder Bounder (Engines)"
 	variant 3
-		"Marauder Falcon-tacarmor10"
+		"Marauder Falcon-tacarmed10"
 		"Marauder Leviathan-tacarmed10"
 		"Marauder Splinter"
 		"Marauder Manta"
