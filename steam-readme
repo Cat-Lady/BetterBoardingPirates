@@ -1,0 +1,68 @@
+This plugin integrates [url=https://github.com/ZBok/BetterVanillaPirates]BetterVanillaPirates[/url] by [url=https://github.com/ZBok]Zbok[/url] with [url=https://github.com/Cat-Lady/Boarding-Enhancements]Boarding Enhancements[/url]]. It fully integrates new outfits (from the latter) into fleets and ship variants (added by the former).
+
+For always up-to-date description and instructions, (formatted in easier to follow way than steam forum allows) see:
+[url]https://github.com/Cat-Lady/BetterBoardingPirates[/url]
+
+[url=https://github.com/Cat-Lady/Boarding-Enhancements]Boarding Enhancements[/url]
+...is required for this plugin to work.
+
+
+
+[h1]Features[/h1]
+
+[list][*]8 new types of gear used during boarding - ranging from Dirt Belt's hunting rifles and small sidearms, to full fledged Navy's Advanced Tactical Battle Suit.
+
+[*]2 ship's outfits that greatly increase battle readiness of crew stationed aboard vessel's sporting them.
+
+[*]Full and seamless integration into rest of the BetterVanillaPirates plugin. AI ships use it - progressively integrating more numerous and powerful outfits as certain in-game war event unfolds - and overall, strong gear is in possession of forces that you would expect them to do so (be sure to expect certain renegade warlords to be armed to teeth).
+
+[*]For the first time in [i][b]Endless Sky[/b][/i] - quasi-random distribution of boarding outfits on AI controlled ships. Even when meeting "same" or similarly constructed fleet, you can never be sure if you will encounter only token defense or full-fledged boarding regiment (especially on warships) - or, anything in between. 
+[b]Hint:[/b] As an effect, "Outfit Scanner" becomes much more useful thing to have. Knowing what you expect might now be a difference between choosing vulnerable targets and diving head-on into suicidal boarding attempt.
+
+[*]As indirect effect, boarding military/marauder targets or well-defended merchant fleets is now much more challenging... But also, much more rewarding, if you are prepared and act wisely.
+
+
+
+[h1]Installing[/h1]
+
+Check:
+https://github.com/Cat-Lady/BetterBoardingPirates/releases
+
+...for latest, pre-packaged version.
+
+
+[b]1.[/b] Be sure that you already have [url=https://github.com/Cat-Lady/Boarding-Enhancements]Boarding Enhancements[/url]] plugin installed. This variant of BetterPirates won't be working properly without Boarding Enhancements.
+
+
+[b]2.[/b] If you were using original BetterVanillaPirates already, be sure to remove the standard version of the plugin (delete its folder from your [i]plugins[/i] directory).
+
+
+[b]3.[/b] Unpack [i]BetterVanillaPirates[/i] to your ES plugins folder. Be sure that you have single [i]BetterVanillaPirates[/i] directory inside your plugins folder, containing [i]data[/i] folder. Directory structure should look like:
+
+[code](...)/plugins/BetterVanillaPirates/(.../data/ and other stuff)[/code]
+
+
+It [b]won't[/b] work if the directory structure will be anything like:
+
+[code](...)/plugins/BetterBoardingPirates/BetterVanillaPirates/(...)[/code]
+
+
+[h1]Author[/h1]
+
+[list][*][i]Base work[/i] - [url=https://github.com/ZBok/BetterVanillaPirates][b]ZBok[/b][/url]
+
+[*][i]Boarding Enhancements integration[/i] - [b]Cat Lady[/b][/list]
+
+
+
+[h1]License[/h1]
+
+This project is licensed under the GPL3 License - see the LICENSE.md file for details.
+
+
+
+[h1]Acknowledgments[/h1]
+
+"Endless Sky" Development Team and Michael Zahniser; For maintaining and creating the game
+
+ZBok - for the absolutely awesome and essential BetterVanillaPirates plugin.
