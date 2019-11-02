@@ -1,3 +1,5 @@
+#### This plugin is a part of upcoming "Endless Sky: Captain's Edition" reboot of the base game. Stay tuned - meanwhile, installing the plugins can help to preview the experience, together or in parts.
+
 # Better Pirates with Boarding Enhancements
 
 This plugin integrates ![BetterVanillaPirates](https://github.com/ZBok/BetterVanillaPirates) by ![Zbok](https://github.com/ZBok) with ![Boarding Enhancements](https://github.com/Cat-Lady/Boarding-Enhancements). It fully integrates new outfits (from the latter) into fleets and ship variants (added by the former).
