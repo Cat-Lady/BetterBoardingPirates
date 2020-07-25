@@ -136,15 +136,12 @@ fleet "Elite Bactrian Merchants"
 	variant 1
 		"Bactrian (Hai Weapons)" 1
 		"Dagger" 3
-
 	variant 1
 		"Bactrian (Hai Weapons)-armed16" 1
 		"Dagger" 3
-
 	variant 1
 		"Bactrian (Hai Weapons)-armed8" 1
 		"Dagger" 3
-
 	variant 1
 		"Bactrian (Hai Weapons)-armed4" 1
 		"Dagger" 3
@@ -157,13 +154,10 @@ fleet "Elite Gunboats"
 		heroic opportunistic
 	variant 1
 		"Gunboat"
-
 	variant 1
 		"Gunboat-armed4"
-
 	variant 1
 		"Gunboat-armed2"
-
 
 fleet "Elite Leviathans"
 	government "Merchant"
@@ -173,17 +167,15 @@ fleet "Elite Leviathans"
 		heroic frugal
 		confusion 20
 	variant 1
-		"Leviathan (Hai Weapons)"
-
+		"Marauder Leviathan"
 	variant 1
-		"Leviathan (Hai Weapons)-armed20"
-
+		"Marauder Leviathan (Engines)"
 	variant 1
-		"Leviathan (Hai Weapons)-armed10"
-
+		"Marauder Leviathan (Weapons)"
 	variant 1
-		"Leviathan (Hai Weapons)-armed5"
-
+		"Marauder Leviathan (Engines - AlienTech)"
+	variant 1
+		"Marauder Leviathan (Weapons - AlienTech)"
 
 fleet "Elite Vanguards"
 	government "Syndicate"
@@ -196,22 +188,18 @@ fleet "Elite Vanguards"
 		"Vanguard"
 	variant 1
 		"Vanguard (Particle)"
-
 	variant 1
 		"Vanguard-armed4"
 	variant 1
 		"Vanguard (Particle)-armed6"
-
 	variant 1
 		"Vanguard-armed2"
 	variant 1
 		"Vanguard (Particle)-armed3"
-
 	variant 1
 		"Vanguard"
 	variant 1
 		"Vanguard (Particle)-armed1"
-
 
 fleet "Elite Bounty Hunters"
 	government "Pirate"
@@ -232,5 +220,9 @@ fleet "Elite Bounty Hunters"
 		"Marauder Leviathan (Engines)" 4
 	variant 1
 		"Marauder Leviathan (Weapons)" 4
+	variant 1
+		"Marauder Leviathan (Engines - AlienTech)" 4
+	variant 1
+		"Marauder Leviathan (Weapons - AlienTech)" 4
 	variant 2
 		"Elite Protector" 5
