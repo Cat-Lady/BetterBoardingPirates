@@ -2,37 +2,35 @@
 # runs an event to add several new variants of the particular Kestrel model chosen to various fleets.
 # The addition to Marauder fleet XX keeps overall fleet strength very similar, by removing either a falcon or leviathan for the Kestrel
 
-
 mission "Add KestrelWep"
 	invisible
 	landing
 	to offer
-			has "kestrel: more weapons"
+		has "kestrel: more weapons"
 	on offer
-			event "Add Kestrels (Wep)"
+		event "Add Kestrels (Wep)"
 
 mission "Add KestrelTank"
 	invisible
 	landing
 	to offer
-			has "kestrel: more shields"
+		has "kestrel: more shields"
 	on offer
-			event "Add Kestrels (Tank)"
+		event "Add Kestrels (Tank)"
 
 mission "Add KestrelEng"
 	invisible
 	landing
 	to offer
-			has "kestrel: more engines"
+		has "kestrel: more engines"
 	on offer
-			event "Add Kestrels (Eng)"
-	
+		event "Add Kestrels (Eng)"
 	
 event "Add Kestrels (Wep)"
 	fleet "Marauder fleet XX"
 		add variant 3
 			"KestrelWep (Electron)"
-			"Marauder Falcon-tacarmor10"
+			"Marauder Falcon (Engines - AlienTech)"
 			"Marauder Splinter"
 			"Marauder Manta"
 			"Marauder Firebird"
@@ -42,7 +40,7 @@ event "Add Kestrels (Wep)"
 			"Marauder Bounder (Engines)"
 		add variant 3
 			"KestrelWep (Electron)"
-			"Marauder Leviathan-tacarmor10"
+			"Marauder Leviathan (Engines - AlienTech)"
 			"Marauder Splinter"
 			"Marauder Manta"
 			"Marauder Firebird"
@@ -145,13 +143,12 @@ event "Add Kestrels (Wep)"
 		add variant 6
 			"Freighter (Hai)" 4
 			"KestrelWep (Hai)"
-	
-	
+
 event "Add Kestrels (Tank)"
 	fleet "Marauder fleet XX"
 		add variant 3
 			"KestrelDef (Electron)"
-			"Marauder Falcon-tacarmor10"
+			"Marauder Falcon (Engines - AlienTech)"
 			"Marauder Splinter"
 			"Marauder Manta"
 			"Marauder Firebird"
@@ -161,7 +158,7 @@ event "Add Kestrels (Tank)"
 			"Marauder Bounder (Engines)"
 		add variant 3
 			"KestrelDef (Electron)"
-			"Marauder Leviathan-tacarmor10"
+			"Marauder Leviathan (Engines - AlienTech)"
 			"Marauder Splinter"
 			"Marauder Manta"
 			"Marauder Firebird"
@@ -270,7 +267,7 @@ event "Add Kestrels (Eng)"
 	fleet "Marauder fleet XX"
 		add variant 3
 			"KestrelEng (Electron)"
-			"Marauder Falcon-tacarmor10"
+			"Marauder Falcon (Engines - AlienTech)"
 			"Marauder Splinter"
 			"Marauder Manta"
 			"Marauder Firebird"
@@ -280,7 +277,7 @@ event "Add Kestrels (Eng)"
 			"Marauder Bounder (Engines)"
 		add variant 3
 			"KestrelEng (Electron)"
-			"Marauder Leviathan-tacarmor10"
+			"Marauder Leviathan (Engines - AlienTech)"
 			"Marauder Splinter"
 			"Marauder Manta"
 			"Marauder Firebird"
